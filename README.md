@@ -1,6 +1,5 @@
-# Digimon V-Pet for ESP32/Arduino
+# S3VPet (Digimon V-Pet for T-Display-S3)
 
-# S3VPet
 Referencing <a href="https://github.com/Berational91/DigimonVPet">DigimonVPet by Berational91</a><br>
 Port in for <a href="https://github.com/Xinyuan-LilyGO/T-Display-S3"> Lilygo T-Display-S3</a>
 Compile code with Arduino IDE <br>
@@ -16,9 +15,14 @@ Target integration wificom library
 <a href="https://github.com/mintmakerenterprise/s3wificom">S3wificom by Mint Maker</a>
 
 
-Ensure you select these parameter during ino upload.
+## S3 VPet Preview
+
+![S3 VPet](images/s3vpet.jpg)
+
 
 ## Arduino IDE Settings
+Ensure you select these parameter during ino upload.
+
 
 | Arduino IDE Setting | Value |
 |---|---|
