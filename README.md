@@ -70,3 +70,12 @@ For complete upload steps, refer <a href="https://github.com/Xinyuan-LilyGO/T-Di
 >
 > - It should be easy to add new Digimon, pets, and evolution lines
 > - It should be easy to change game mechanics and the UI
+
+
+## Credit
+<a href="https://github.com/Berational91/DigimonVPet"> Berational91@DigimonVpet</a>
+<a href="https://www.thingiverse.com/thing:7059952">jyoshi1909@Digimon Pico Terminal</a>
+<a href="https://www.thingiverse.com/thing:7217090">drdo013481@Digimon ESP32 Lilygo based VPET with Add-Ons</a>
+Rurounik@Digimon VPet Go
+Saint Jocelyn@Digimon VPet Go
+
