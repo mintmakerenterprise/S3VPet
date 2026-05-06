@@ -73,9 +73,9 @@ For complete upload steps, refer <a href="https://github.com/Xinyuan-LilyGO/T-Di
 
 
 ## Credit
-<a href="https://github.com/Berational91/DigimonVPet"> Berational91@DigimonVpet</a>
-<a href="https://www.thingiverse.com/thing:7059952">jyoshi1909@Digimon Pico Terminal</a>
-<a href="https://www.thingiverse.com/thing:7217090">drdo013481@Digimon ESP32 Lilygo based VPET with Add-Ons</a>
-Rurounik@Digimon VPet Go
-Saint Jocelyn@Digimon VPet Go
 
+1. <a href="https://github.com/Berational91/DigimonVPet">Berational91@DigimonVPet</a>
+2. <a href="https://www.thingiverse.com/thing:7059952">jyoshi1909@Digimon Pico Terminal</a>
+3. <a href="https://www.thingiverse.com/thing:7217090">drdo013481@Digimon ESP32 Lilygo based VPET with Add-Ons</a>
+4. Rurounik@Digimon VPet Go
+5. Saint Jocelyn@Digimon VPet Go
